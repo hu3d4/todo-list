@@ -1,5 +1,4 @@
 # todo-list
-Todo Listを使うことで、タスクを整理することが可能です。
 
 ## Project setup
 ```
